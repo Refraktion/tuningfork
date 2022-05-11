@@ -1,14 +1,10 @@
-# Welcome to the GBA emulator
+# Welcome to the GBA Tuning Fork
 
-GBA Emulator is a free, online GBA emulator with 150+ Games to play!
+The tuning fork is a free, online GBA emulator with 150+ Games to play!
 
 # Github GBA Game Website
 
-https://browncha023.github.io/GBA/
-
-# EIC Version
-
-https://gba.endinternetcensorship.repl.co/
+https://refraktion.github.io/tuningfork/
 
 <br>
 
